@@ -1,3 +1,5 @@
+##### The contents of the CodeTest and the tasks to be performed are detailedly described in `CodeTest1.tsx`, `CodeTest2.tsx`, and `CodeTest3.tsx`.
+
 1. The CodeTest should not require an excessive amount of time.
 2. Please aim to complete the code test within one day.
 3. You can use any library that you think is necessary
