@@ -19,6 +19,7 @@ const CodeTest3: React.FC = () => {
       <div>
         <div>Requirements:</div>
         <ol className="list-decimal list-inside text-gray-600">
+          <li>Please make use of MUI (Material-UI) library.</li>
           <li>Create a list of cards to display the monitored stock details</li>
           <li>
             Show the stock name and current price with the delta changes from
