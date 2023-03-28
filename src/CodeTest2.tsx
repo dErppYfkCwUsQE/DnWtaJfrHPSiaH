@@ -23,6 +23,7 @@ const CodeTest2: React.FC = () => {
       <div>
         <div>Requirements:</div>
         <ol className="list-decimal list-inside text-gray-600">
+          <li>Please make use of MUI (Material-UI) library.</li>
           <li>
             The hook should at least return loading state and the list of
             products
